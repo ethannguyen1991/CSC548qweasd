@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CSC548</string>
+    <string name="textview">TextView</string>
+    <string name="enter_megabyte_number">Enter Megabyte Number</string>
+    <string name="converter">converter</string>
+    <string name="textview1">TextView</string>
+</resources>
